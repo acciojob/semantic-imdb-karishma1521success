@@ -1,39 +1,4 @@
 
 
 /* Your CSS Code here. */
-body{
-    font-size: 25px;
-}
 
-header{
-    color: blueviolet;
-}
-
-summary{
-    color: cadetblue;
-}
-
-#actor ol{
-    color: chocolate;
-}
-
-#quote ol{
-    color: darkcyan;
-}
-
-.image-album{
-    display: flex;
-}
-
-aside{
-    color: blue;
-    font-weight: bolder;
-}
-
-footer{
-    background-color: black;
-    color: aliceblue;
-    font-size: 30px;
-    font-weight: 40px;
-    text-align: center;
-}
